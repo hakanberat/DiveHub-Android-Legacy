@@ -52,7 +52,7 @@ public class Contactform extends Activity{
 
 					String fromEmail = "hbdtest1@gmail.com";
 					
-					String fromPassword = "hakobeko.26";
+					String fromPassword = " ";
 					
 					String toEmails = "hakanberatdemircan@gmail.com";
 					
